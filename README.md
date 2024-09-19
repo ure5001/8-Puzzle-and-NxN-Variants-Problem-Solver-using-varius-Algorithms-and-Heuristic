@@ -1,4 +1,4 @@
-# Solving-the-8-Puzzle-and-NxN-Variants
+# 8-Puzzle and NxN Variants Problem Solver using varius Algorithms and Heuristic
 Algorithms and Heuristic Approaches for Solving the 8-Puzzle and NxN Variants
 
 # Description
@@ -73,5 +73,6 @@ The tiles are numbered from 1 to(N*N-1) and the 0 represents the blank space. Th
 
 
 # Developers
-Luz Diaz
-Uyi Erhabor
+Luz Diaz - https://github.com/Luz-Diaz1 
+
+Uyi Erhabor - https://github.com/ure5001
